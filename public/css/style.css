@@ -1,0 +1,13 @@
+*{box-sizing: border-box;}
+html, body{height:100% ; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+.mybanner{background-image: linear-gradient(rgba(89, 179, 71, 0.5),rgba(0,0,0,0.4)) ;
+        background-size: cover; 
+        background-repeat: no-repeat;
+        background-position: center;
+        filter:blur(3px);
+        height:60%
+}
+
+.flex-container-center{display:flex; align-items: center; justify-content: center; }
+
